@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ha Dao</h1>
+<h1 align="center">👋 Hi, I'm Ha Dao</h1>
 
 <h3 align="center">Automation Engineering Student | Aspiring Software Developer</h3>
 
