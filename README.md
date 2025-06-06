@@ -1,6 +1,6 @@
-# Ha Dao
+<h1 align="center">Ha Dao</h1>
 
-## Automation Engineering Student | Aspiring Software Developer
+<h3 align="center">Automation Engineering Student | Aspiring Software Developer</h3>
 
 ---
 
