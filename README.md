@@ -4,12 +4,14 @@
 
 ---
 
-I am currently majoring in Automation Engineering, with a strong passion for software development and digital transformation. My focus is on building scalable, user-centric applications and exploring the intersection of intelligent systems and automation. I am driven by curiosity, continuous learning, and the desire to turn innovative ideas into impactful solutions.
+✨ Hi, I’m currently majoring in Automation Engineering, with a strong passion for software development and digital transformation. I love building scalable, user-centric applications and exploring where intelligent systems meet automation. Driven by curiosity and a growth mindset, I’m always looking for ways to turn innovative ideas into impactful solutions.
 
-🎓 I am committed to ongoing growth through personal projects, open-source contributions, and academic exploration. I view every challenge as a valuable learning experience.
+🎓 Always learning through hands-on projects, open-source contributions, and academic research.  
+🚀 Embracing every challenge as a chance to grow and innovate.
 
-📁 Feel free to browse my repositories for a closer look at my work.
-- I welcome new challenges and collaborations that push boundaries and spark innovation.
+📁 Take a look at my repositories to see what I’ve been working on.
+
+🌱 Currently seeking internship opportunities to apply my skills and make a real-world impact.
 
 ---
 
