@@ -17,7 +17,7 @@
 
 ### 🛠️ Technical Skills
 
-- **Languages:** JavaScript, Python, TypeScript
+- **Languages:** JavaScript, Python, TypeScript, C++
 - **Frontend:** React.js, Next.js, HTML, CSS, Bootstrap, Tailwind CSS, Shadcn/UI
 - **Backend:** Node.js, Express.js, Mongoose
 - **Database:** MongoDB, SQLite
