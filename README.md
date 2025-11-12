@@ -11,7 +11,7 @@
 
 📁 Take a look at my repositories to see what I’ve been working on.
 
-🌱 I am currently seeking internship opportunities to apply my skills and create real-world impact, with the intention of developing a long-term career within the company.
+🌱 I am currently working as a mobile robotic intern at SeAMK - Seinajoki University of Applied Sciences.
 
 ---
 
