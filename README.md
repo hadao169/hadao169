@@ -22,7 +22,7 @@
 
 ### 💼 Work Experience
 
-- **Mobile Robotics Intern** | SeAMK 
+- **Mobile Robotics Intern** | SeAMK (10/2025 - 3/2026)
   - Developed an indoor navigation stack integrating multi-sensor fusion (IMU, LiDAR, and UWB), enabling
   highly accurate real-time localization alongside autonomous path planning and reactive obstacle avoidance.
   - Developed an EKF-based sensor fusion framework for real-time, robust pose estimation and conducted
