@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Ha Dao</h1>
 
-<h3 align="center">Automation Engineering Student | Aspiring Software Developer</h3>
+<h3 align="center">Automation Engineer | Aspiring Software Developer</h3>
 
 ---
 
-✨ Hi, I'm currently a final-year Automation Engineering student at SeAMK, with a strong passion for software development, embedded systems, and digital transformation. I love building scalable, user-centric applications and exploring the intersection of intelligent systems and automation. Driven by curiosity and a growth mindset, I continually seek opportunities to transform innovative ideas into impactful solutions.
+✨ Hi, I'm an Automation Engineering graduate from SeAMK, with a strong passion for industrial programming, embedded systems, and digital transformation. I love building efficient systems and exploring the intersection of intelligent software and factory automation. Driven by curiosity and a growth mindset, I continually seek opportunities to transform innovative engineering concepts into impactful, real-world solutions.
 
 🎓 Always learning through hands-on projects, open-source contributions, and academic research.  
 🚀 Embracing every challenge as a chance to grow and innovate.
@@ -15,8 +15,8 @@
 
 ### 🎓 Education
 
-- **Automation Engineering** | SeAMK - Seinäjoki University of Applied Sciences
-- **GPA:** 4.5/5 (Final-year student)
+- **Automation Engineering** | SeAMK - Seinäjoki University of Applied Sciences (2023-2026) 
+- **GPA:** 4.62/5 (Graduated)
 
 ---
 
@@ -48,14 +48,14 @@
 
 - English (Professional)
 - Vietnamese (Native)
-- Finnish (Limited)
+- Finnish (Elementary)
 
 ---
 
 ### 📫 Contact
 
 - 📍 Seinäjoki, Finland
-- ✉️ ThaiHa.Dao@seamk.fi
+- ✉️ daothaiha1692005@gmail.com
 - 📞 +358 46 965 2418
 
 ---
