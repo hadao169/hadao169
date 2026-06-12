@@ -23,24 +23,23 @@
 ### 💼 Work Experience
 
 - **Mobile Robotics Intern** | SeAMK 
-  - Developing expertise in embedded systems and hardware integration
-  - Working on the **UGV Panther project** with a focus on complex mobile machinery
-  - Hands-on experience with Raspberry Pi, Arduino, and robotics sensors (LiDAR, IMUs, ultrasonic sensors)
-  - Demonstrating strong problem-solving and teamwork abilities in a professional engineering environment
+  - Developed an indoor navigation stack integrating multi-sensor fusion (IMU, LiDAR, and UWB), enabling
+  highly accurate real-time localization alongside autonomous path planning and reactive obstacle avoidance.
+  - Developed an EKF-based sensor fusion framework for real-time, robust pose estimation and conducted
+  experiments and data collection to support research outcomes.
+  - Researched and integrated Foxglove Studio to develop an operator dashboard, enabling real-time telemetry
+  monitoring and streamlined remote control for a UGV project
 
 ---
 
 ### 🛠️ Technical Skills
 
-- **Languages:** JavaScript, Python, TypeScript, C++, ROS2
-- **Embedded Systems:** Raspberry Pi, Arduino, Sensors (LiDAR, IMUs, RGB Camera)
-- **Frontend:** React.js, Next.js, HTML, CSS, Bootstrap, Tailwind CSS, Shadcn/UI
-- **Backend:** Node.js, Express.js, Mongoose
-- **Database:** MongoDB, SQLite
-- **Hardware & Electronics:** Circuit design, Data acquisition, Hardware integration
-- **Testing:** Cypress, Integration & Unit Testing
-- **Version Control:** Git
-- **Other:** MATLAB, PLC Programming (Beckhoff TwinCAT, Siemens TIA Portal, HMI, Winforms, WinCC)
+*   **PLC & HMI Programming:** Siemens TIA Portal, Beckhoff TwinCAT (TwinCAT HMI), WinCC, CODESYS, C# WinForms
+*   **Robotics & Embedded Systems:** ROS 2, Linux, Embedded Systems, Microcontrollers, ABB Robot Programming, RobotStudio, Sensors (LiDAR, IMUs, UWB, RGB Camera)
+*   **CAD & Design Tools:** EPLAN, Solid Edge, Circuit Design, Hardware Integration, Data Acquisition
+*   **Simulation & Modeling:** MATLAB, Simulink
+*   **Programming & Machine Learning:** C++, Python, JavaScript, TypeScript, TensorFlow, PyTorch, Git
+*   **Web & Database Development:** Node.js, Express.js, React.js, Next.js, HTML/CSS (Tailwind CSS, Bootstrap, Shadcn/UI), WebSocket, UX/UI, Databases (MongoDB, MySQL, SQLite, Mongoose)
 
 ---
 
