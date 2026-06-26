@@ -55,6 +55,5 @@
 
 - 📍 Seinäjoki, Finland
 - ✉️ daothaiha1692005@gmail.com
-- 📞 +358 46 965 2418
 
 ---
